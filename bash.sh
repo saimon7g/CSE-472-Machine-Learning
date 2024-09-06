@@ -3,11 +3,8 @@
 # Activate the virtual environment linux
 # source env/bin/activate
 
-# Activate the virtual environment macOS
-# source env/bin/activate
-
 # Run your Python script
-python3 test.py
+# python3 test.py
 
 # Deactivate the virtual environment
 # deactivate
