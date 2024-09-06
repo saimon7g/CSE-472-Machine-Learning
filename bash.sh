@@ -7,7 +7,7 @@
 # source env/bin/activate
 
 # Run your Python script
-python test.py
+python3 test.py
 
 # Deactivate the virtual environment
 # deactivate
