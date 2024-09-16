@@ -95,7 +95,7 @@ ENV/
 myenv/
 env.bak/
 venv.bak/
-
+dataset/
 # Spyder project settings
 .spyderproject
 .spyproject
