@@ -1,0 +1,10 @@
+=== Model Configuration ===
+Hidden layers: [256, 128]
+Learning rate: 0.0007
+Epochs: 50
+Batch size: 64
+
+=== Validation Set Results ===
+Final Validation Loss: 0.3092
+Final Validation Accuracy: 0.8897
+Final Validation Macro-F1: 0.8905

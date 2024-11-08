@@ -1,0 +1,20 @@
+=== Model Configuration ===
+Hidden layers: [512, 128]
+Learning rate: 0.0025
+
+=== Test Set Results ===
+Test Loss: 0.3237
+Test Accuracy: 0.8982
+Test Macro-F1: 0.8979
+
+=== Per-class Performance ===
+T-shirt/top     Acc: 0.8520 F1: 0.8469
+Trouser         Acc: 0.9700 F1: 0.9823
+Pullover        Acc: 0.8310 F1: 0.8269
+Dress           Acc: 0.9130 F1: 0.9053
+Coat            Acc: 0.8540 F1: 0.8332
+Sandal          Acc: 0.9510 F1: 0.9679
+Shirt           Acc: 0.6960 F1: 0.7220
+Sneaker         Acc: 0.9690 F1: 0.9561
+Bag             Acc: 0.9740 F1: 0.9740
+Ankle boot      Acc: 0.9720 F1: 0.9643

@@ -1,0 +1,9 @@
+=== Model Configuration ===
+Hidden layers: [512, 128]
+Learning rate: 0.0025
+Epochs: 50
+Batch size: 64
+
+=== Final Training Set Results ===
+Final Training Loss: 0.2061
+Final Training Accuracy: 0.9322
